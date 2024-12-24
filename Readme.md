@@ -58,7 +58,7 @@ A collection of scripts and configurations to remediate common misconfigurations
 - WN10-CC-000044  
 - WN10-CC-000052  
 - WN10-CC-000060  
-- WN10-CC-000065  
+- [WN10-CC-000065](windows/WN10-CC-000065.ps1)  
 - WN10-CC-000068  
 - WN10-CC-000085  
 - WN10-CC-000090  
@@ -102,7 +102,7 @@ A collection of scripts and configurations to remediate common misconfigurations
 - WN10-CC-000325  
 - WN10-CC-000326  
 - WN10-CC-000327  
-- WN10-CC-000330  
+- [WN10-CC-000330](windows/WN10-CC-000330.ps1)  
 - WN10-CC-000335  
 - WN10-CC-000345  
 - WN10-CC-000350  

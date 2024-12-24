@@ -35,7 +35,7 @@ A collection of scripts and configurations to remediate common misconfigurations
 - WN10-AU-000120  
 - WN10-AU-000150  
 - [WN10-AU-000500](windows/WN10-AU-000500.ps1)  
-- WN10-AU-000505  
+- [WN10-AU-000505](windows/WN10-AU-000505.ps1)  
 - WN10-AU-000510  
 - WN10-AU-000555  
 - WN10-AU-000560  

@@ -97,7 +97,7 @@ A collection of scripts and configurations to remediate common misconfigurations
 - WN10-CC-000290  
 - WN10-CC-000295  
 - WN10-CC-000305  
-- WN10-CC-000310  
+- [WN10-CC-000310](windows/WN10-CC-000310.ps1)  
 - WN10-CC-000315  
 - WN10-CC-000325  
 - WN10-CC-000326  

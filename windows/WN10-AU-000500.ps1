@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-    This PowerShell script disables the Microsoft Edge password manager 
+    This PowerShell script configures the application event log size to be 32,768 KB
 
 .NOTES
     Author          : Sameal Con-Roma

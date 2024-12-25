@@ -1,10 +1,11 @@
 # STIG Compliance Remediation
+A Security Technical Implementation Guide (STIG) is a set of configuration standards and best practices developed by the United States Department of Defense (DoD) to enhance the security of information systems and networks. They are maintained by the Defense Information Systems Agency (DISA)
 
-A collection of scripts and configurations to remediate common misconfigurations identified in STIG compliance checks.
+The following is a collection of scripts and configurations to remediate common misconfigurations identified in STIG compliance checks.
 
 ## Windows STIGs
 - [WN10-00-000031](windows/WN10-00-000031.ps1)
-- WN10-00-000032  
+- [WN10-00-000032](windows/WN10-00-000032.ps1)  
 - WN10-00-000107  
 - WN10-00-000145  
 - WN10-00-000150  

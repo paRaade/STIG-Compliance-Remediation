@@ -6,7 +6,7 @@ The following is a collection of scripts and configurations to remediate common 
 ## Windows STIGs
 - [WN10-00-000031](windows/WN10-00-000031.ps1)
 - [WN10-00-000032](windows/WN10-00-000032.ps1)  
-- WN10-00-000145  
+- [WN10-00-000145](windows/WN10-00-000145.ps1)
 - WN10-00-000150  
 - WN10-00-000155  
 - WN10-00-000175  

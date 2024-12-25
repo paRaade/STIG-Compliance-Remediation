@@ -3,7 +3,7 @@
 A collection of scripts and configurations to remediate common misconfigurations identified in STIG compliance checks.
 
 ## Windows STIGs
-- WN10-00-000031  
+- [WN10-00-000031](windows/WN10-00-000031.ps1)
 - WN10-00-000032  
 - WN10-00-000107  
 - WN10-00-000145  
